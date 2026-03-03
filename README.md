@@ -1,4 +1,4 @@
 # naman-demo
 This is my first Git Repository.
 <br>
-Author - Naman Saini
+Author - Naman rathi
